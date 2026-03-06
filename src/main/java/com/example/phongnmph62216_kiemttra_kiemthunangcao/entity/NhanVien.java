@@ -1,11 +1,6 @@
 package com.example.phongnmph62216_kiemttra_kiemthunangcao.entity;
 
 
-//Tạo class NhanVien gồm các thuộc tính maNV - String , ten –
-//String, tuoi - int, luong - float, soNamLamViec - int, phongBan -
-//String 
-
-
 public class NhanVien {
 
     private String maNV;

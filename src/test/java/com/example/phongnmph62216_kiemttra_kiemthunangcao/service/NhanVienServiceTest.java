@@ -10,9 +10,6 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-//Tạo class NhanVienService và thực hiện hàm thêm mới 1
-//đối tượng nhân viên (1 Điểm) ●
-//Viết unit test cho chức năng trên
 
 
 class NhanVienServiceTest {
